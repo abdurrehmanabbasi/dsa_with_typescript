@@ -1,0 +1,26 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Compiled output
+/dist
+/out-tsc
+
+# Logs
+/logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.test
+.env.test.local
+
+# Build output
+/build
+
+# IDE files
+.idea
+.vscode
